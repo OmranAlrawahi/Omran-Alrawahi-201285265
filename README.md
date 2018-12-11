@@ -1,1 +1,1 @@
-# Hi, This for 	Programming for Geographical Information Analysis: Core Skills muduel 
+# Hi, This for 	Programming for Geographical Information Analysis: Core Skills module assignment submission
