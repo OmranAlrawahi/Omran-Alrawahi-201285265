@@ -12,8 +12,8 @@ Test
   * License file called (LICENSE) in .txt format which is a licence for your software source code <br/> 
   * Readme file called (readme) in .txt format which explains what the source code is and how to run it. <br/>
   <br/>
-  <font size="3" color="red">Note: it is prefered to read (readme) file to get an idea about the model befor you run it 
-    <br/>You need all above files to run the model properly </font> <br/>
+  <font size="3" color="red">Note: - It is prefered to read (readme) file to get an idea about the model befor you run it 
+    <br/>   - You need all above files to run the model properly </font> <br/>
     <br/>
   <font size="3" color="black">Created by Omran Al Rawahi (201285265) on Dec/2018</font>
 </BODY>
