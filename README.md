@@ -6,7 +6,7 @@ Test
 <font size="5" color="blue"> Hello world</font> <br/>
   This is for "Programming for Geographical Information Analysis: Core Skills" module <br/>
   Please press above "View on GitHub" bottom to get the code files repository <br/>
-  The repository contains the below files <br/>
+  The repository contains the below files: <br/>
   * The code files (FinalModel and agentframework) both files in .py format <br/>
   * Environment file (in.txt) in txt format which is used in the modele as an environment for the agents <br/> 
   * License file called (LICENSE) in .txt format which is a licence for your software source code <br/> 
