@@ -11,8 +11,8 @@ Test
   * licence file in .txt format which is a licence for your software source code <br/> 
   * readme file in .txt format which explains what the source code is and how to run it. <br/>
   <br/>
-  <br/>
-  <font size="3" color="black">Note: You need all above files to run the model properly </font> <br/>
-  <font size="4" color="black">Created by Omran Al Rawahi (201285265) on Dec/2018</font>
+  <font size="3" color="red">Note: You need all above files to run the model properly </font> <br/>
+    <br/>
+  <font size="3" color="black">Created by Omran Al Rawahi (201285265) on Dec/2018</font>
 </BODY>
 </HTML>
